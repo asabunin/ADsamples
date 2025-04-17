@@ -1,2 +1,2 @@
-# ADsamples
-Open Samples From Altium Designer 18.0
+# First attempts
+Trying to get data about GGHM
